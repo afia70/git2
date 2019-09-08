@@ -13,4 +13,5 @@ public class MainActivity extends AppCompatActivity {
     }
     // Do not need this
     //This is 1st comment by B
+    //hi
 }
